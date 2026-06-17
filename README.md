@@ -2,7 +2,7 @@
 
 
 ## Overview
-Short description of the project.
+A Banking App.
 
 ## Features
 - Feature 1
@@ -21,6 +21,8 @@ Short description of the project.
 ✅ Project initialized
 ✅ Repository created
 ✅ Folder structure setup
+✅ Routes and Controller Folders Created
+✅ Connect Database
 
 ### Day 2
 ✅ Authentication completed
